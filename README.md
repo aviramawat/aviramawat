@@ -40,11 +40,13 @@ Building useful apps, exploring AI, and learning by shipping real projects.
       <p>A dashboard project focused on social media data and insights.</p>
     </td>
     <td width="50%">
-      <h3>🚀 <a href="https://github.com/aviramawat?tab=repositories">More projects</a></h3>
-      <p>Take a look through my repositories and see what I'm building.</p>
+      <h3>🧳 <a href="https://github.com/aviramawat/handoff-app">Handoff</a></h3>
+      <p>A lost-and-found bag reporting prototype for airports, railway stations, and other public places.</p>
     </td>
   </tr>
 </table>
+
+[🚀 Explore more projects](https://github.com/aviramawat?tab=repositories)
 
 ### Tech I use
 
